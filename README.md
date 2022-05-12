@@ -17,9 +17,14 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 
 
-VITE_FIREBASE_API_KEY= code
+VITE_FIREBASE_API_KEY= code 
+
 VITE_AUTH_DOMAIN= code
+
 VITE_PROJECT_ID= code
+
 VITE_STORAGE_BUCKET= code
+
 VITE_MESSAGING_SENDER_ID= code
+
 VITE_APP_ID= code
